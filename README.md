@@ -1,5 +1,5 @@
 # Web-development-Notes
-## Getting started with Front-End (Reactjs) :
+## Getting started with Front-End:
 1. Meta's Coursera zero-base front-end transcoding course: [https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-cert ificates/meta-front-end-developer)
 2. If you only read the text version, recommend the W3CSchool tutorial:
 1. HTML: [https://www.w3schools.com/html/default.asp] (https://www.w3schools.com/html/default.asp)
